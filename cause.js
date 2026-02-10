@@ -1,25 +1,23 @@
  // Reasons database
  const reasons = [
     { 
-        text: "‎မွေးနေ့မှာပျော်‌ရွှင်ပါစေ။🎈
-‎မိဘအားကိုးရတဲ့ သမီးကောင်း ရတနာလေးဖြစ်ပါစေ။🎈", 
+        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "‎ကိုကို့ ကိုအမြဲတမ်းစိတ်ကောက်ချင်နေတာလေးလဲ လျော့ပါအုံး🤭", 
+        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "‎ကိုကို့ ကို အမြဲတမ်းမငြိုငြင်ပဲချစ်ပေးနေလို့ ကျေးဇူးပါ မေ။", 
+        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "‎ဒီနှစ်မွေးနေ့မှာတော့ မေ့ အနားမှာ ကိုကိုမရှိနေနိုင်ပေမဲ့ နောက်နှစ်တွေကျရင်တော့ ရှိနေမှာပါ။
-‎အရမ်းပဲချစ်တယ်တယ် မေ။", 
-        emoji: "🥰",
+        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        emoji: "🌟",
         gif: "gif2.gif"
     }
 ];
